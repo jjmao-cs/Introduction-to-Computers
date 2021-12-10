@@ -5,7 +5,7 @@
 - These files are written by Jonathan Mao.
 
 ## Outline
-- [2(a) Armstrong number]()
+- [2(a) Armstrong number](/Armstrong number)
 - [2(b) Factorial of a nonnegative integer]()
 - [2(c) Sale tax]()
 - 
