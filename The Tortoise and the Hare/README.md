@@ -42,8 +42,5 @@ AND THEY ’RE OFF !!!!!
   - If both animals win on the same tick of the clock, you may want to favor the turtle(the “underdog”), or you may want to print It is a tie. 
   - If neither animal wins, perform the loop again to simulate the next tick of the clock. 
 
-
-
-
 ## Reference
 - C How to Program (Eighth Edition) Authors: Paul J. Deitel and Harvey M. Deitel. Publisher: Prentice Hall (2016)..
