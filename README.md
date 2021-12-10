@@ -6,7 +6,10 @@
 
 ## Outline
 - 2(a) Armstrong number
-- 2(b) Factorial of a nonnegative integer]
+- 2(b) Factorial of a nonnegative integer
 - 2(c) Sale tax
-- 
+- 5(a) Simulation: The Tortoise and the Hare
+- 5(b) Poll
+- 6(a) File processing
+- 6(b) File processing 2
   
